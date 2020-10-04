@@ -59,3 +59,5 @@ Reference:
 https://github.com/PaacMaan/cars-price-predictor
 
 I Md sohaib uddin have deployed this to heroku, Here is the link https://car-price-prediction11.herokuapp.com/
+
+<a href="http://PianalytiX.com" rel="dofollow">To Learn about machine learning Projects, visit PianalytiX</a>
